@@ -19,3 +19,26 @@
 ## DATA OVERVIEW
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
 
+# Output
+![1](https://github.com/user-attachments/assets/6d396f27-beb1-417a-b6f3-b15184a232f3)
+![Q4 Find the average price of tracks in each genre](https://github.com/user-attachments/assets/8be5e166-eaac-46e2-bafe-494c7d927e94)
+![5](https://github.com/user-attachments/assets/4c432226-ab15-49bd-ae13-ee09f28571e3)
+![6](https://github.com/user-attachments/assets/d6769922-165d-4a3c-80fd-e5421b20230d)
+![7](https://github.com/user-attachments/assets/66e739b4-3ece-436a-94aa-091f58d39b22)
+![8](https://github.com/user-attachments/assets/a9cf31fe-3119-4966-8a77-4fb4149a31c6)
+![9](https://github.com/user-attachments/assets/1038f1b7-40f7-46b9-ab31-31aee3b74cd3)
+![10](https://github.com/user-attachments/assets/3462d168-77e7-4ffd-9bb8-d7a7de34455f)
+![11](https://github.com/user-attachments/assets/09d898ea-2efa-4623-88f3-0d986a3646a2)
+![12](https://github.com/user-attachments/assets/86d62fd2-2445-4ca1-aa98-9ac5b4be2cef)
+![13](https://github.com/user-attachments/assets/4a042f31-f382-433f-833b-b748d645d72e)
+![14](https://github.com/user-attachments/assets/cf7d7649-3114-46e1-ac7d-6a52e32d42ae)
+![15](https://github.com/user-attachments/assets/7206d1fd-d160-4f4e-9256-dae0c0068f7c)
+
+
+
+
+
+
+
+
+
