@@ -19,7 +19,7 @@
 ## DATA OVERVIEW
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
 
-# Output
+# Data Analysis using SQL
 ![1](https://github.com/user-attachments/assets/6d396f27-beb1-417a-b6f3-b15184a232f3)
 ![Q4 Find the average price of tracks in each genre](https://github.com/user-attachments/assets/8be5e166-eaac-46e2-bafe-494c7d927e94)
 ![5](https://github.com/user-attachments/assets/4c432226-ab15-49bd-ae13-ee09f28571e3)
