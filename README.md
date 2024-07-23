@@ -1,7 +1,7 @@
 # MySQL_Project
 # Music Store Data Analysis
 # Objective:-
-- ##### This project focuses on analyzing music sales data to uncover trends and actionable insights. By leveraging SQL queries, we explore various aspects of the dataset, including revenue sources, customer behavior, and regional sales distributions. Our goal is to use these insights to inform strategic decision-making and optimize marketing efforts. In this project I have examined the dataset with SQL and help the store understand its business growth.
+### This project focuses on analyzing music sales data to uncover trends and actionable insights. By leveraging SQL queries, we explore various aspects of the dataset, including revenue sources, customer behavior, and regional sales distributions. Our goal is to use these insights to inform strategic decision-making and optimize marketing efforts. In this project I have examined the dataset with SQL and help the store understand its business growth.
 ## Features -
 ##### 1. Who is the senior most employee, find name and job title? 
 ##### 2. Which countries have the most Invoices?
