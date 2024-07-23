@@ -18,4 +18,4 @@
 ## Tech Stack Used 
 ![SQL](https://img.icons8.com/arcade/256/sql.png)
 ## DATA OVERVIEW
-![image](https://github.com/gauraishwarya/Music-Store-Data-Analysis-Project-SQL/blob/main/schema_diagram.png?raw=true)
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
